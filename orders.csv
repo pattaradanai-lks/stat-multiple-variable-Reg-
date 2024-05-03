@@ -1,0 +1,101 @@
+id,user_id,timestamp,order_details,status,type,percent
+1,18,2023-03-08 07:20:10.336720,My roof needs repair,in-process,structural,85.62
+2,20,2023-04-12 11:35:25.718935,There's a leak in my water pipe,waiting,waterworks,92.18
+3,15,2023-05-19 15:50:40.992624,My electrical wiring is faulty,waiting,electrical,78.76
+4,9,2023-06-25 20:05:55.317624,There are termites in my basement,waiting,pesticide,81.34
+5,14,2023-07-31 00:20:10.872308,My garden needs pruning,completed,arborist,87.89
+6,11,2023-09-06 04:35:25.221496,My HVAC system needs servicing,in-process,structural,74.56
+7,16,2023-10-12 08:50:40.518730,There's a problem with my circuit breaker,completed,electrical,93.76
+8,19,2023-11-17 13:05:55.823490,My windows need replacement,waiting,structural,80.91
+9,12,2023-12-24 17:20:10.112358,There's a mold issue in my attic,waiting,structural,89.25
+10,17,2024-01-29 21:35:25.529837,My pipes are clogged,completed,waterworks,72.84
+11,13,2024-03-06 01:50:40.917304,My electrical outlets aren't working,waiting,electrical,95.37
+12,10,2024-04-12 06:05:55.224839,My roof is leaking,in-process,structural,82.46
+13,15,2024-05-17 10:20:10.610528,There's a wasp nest in my backyard,waiting,pesticide,87.15
+14,7,2024-06-23 14:35:25.996240,My sink is blocked,waiting,waterworks,90.62
+15,9,2024-07-29 18:50:40.327896,There's a crack in my foundation,waiting,structural,78.29
+16,12,2024-09-04 23:05:55.722930,My ceiling fan isn't working,waiting,electrical,91.94
+17,14,2024-10-11 03:20:10.119430,My lawn needs fertilizing,waiting,arborist,76.83
+18,16,2024-11-16 07:35:25.496247,There's a problem with my light switches,waiting,electrical,83.76
+19,18,2024-12-23 11:50:40.872874,There's a crack in my wall,waiting,structural,88.12
+20,20,2025-01-29 16:05:56.227485,My kitchen faucet is leaking,waiting,waterworks,75.49
+21,11,2025-03-07 20:20:10.598274,There's a rat infestation in my attic,waiting,pesticide,92.06
+22,13,2025-04-14 00:35:25.927394,My trees need trimming,waiting,arborist,86.27
+23,15,2025-05-20 04:50:41.328773,My toilet is running constantly,waiting,waterworks,79.58
+24,17,2025-06-26 09:05:56.722930,My basement floods during heavy rain,waiting,waterworks,94.71
+25,19,2025-08-02 13:20:11.119430,There's a short circuit in my kitchen,waiting,electrical,77.29
+26,10,2025-09-08 17:35:26.496247,There's a crack in my driveway,waiting,structural,85.67
+27,12,2025-10-15 21:50:41.872874,My air conditioner isn't cooling properly,waiting,structural,90.12
+28,14,2025-11-22 02:05:57.227485,There's a problem with my thermostat,waiting,structural,71.38
+29,16,2025-12-28 06:20:12.598274,My shower is leaking,waiting,waterworks,97.29
+30,18,2026-02-04 10:35:27.927394,There's a bee hive under my porch,waiting,pesticide,82.68
+31,20,2026-03-13 14:50:42.328773,My water pump needs repair,waiting,waterworks,88.75
+32,11,2026-04-19 19:05:57.722930,My roof needs repair,waiting,structural,73.86
+33,13,2026-05-26 23:20:12.119430,There's a leak in my water pipe,waiting,waterworks,89.57
+34,15,2026-07-03 03:35:27.496247,My electrical wiring is faulty,waiting,electrical,95.34
+35,17,2026-08-09 07:50:42.872874,There are termites in my basement,waiting,pesticide,81.79
+36,19,2026-09-15 12:05:58.227485,My garden needs pruning,waiting,arborist,87.44
+37,10,2026-10-22 16:20:13.598274,My HVAC system needs servicing,waiting,structural,94.29
+38,12,2026-11-28 20:35:28.927394,There's a problem with my circuit breaker,waiting,electrical,72.75
+39,14,2026-12-06 00:50:43.328773,My windows need replacement,waiting,structural,88.82
+40,16,2027-01-12 05:05:58.722930,There's a mold issue in my attic,waiting,structural,90.17
+41,18,2027-02-18 09:20:14.119430,My pipes are clogged,waiting,waterworks,79.38
+42,20,2027-03-26 13:35:29.496247,My electrical outlets aren't working,waiting,electrical,96.57
+43,11,2027-05-02 17:50:44.872874,My roof is leaking,waiting,structural,75.94
+44,13,2027-06-08 22:05:59.227485,There's a wasp nest in my backyard,waiting,pesticide,84.62
+45,15,2027-07-15 02:20:14.598274,My sink is blocked,waiting,waterworks,79.77
+46,17,2027-08-21 06:35:29.927394,There's a crack in my foundation,waiting,structural,92.38
+47,19,2027-09-27 10:50:45.328773,My ceiling fan isn't working,waiting,electrical,76.59
+48,10,2027-11-03 15:05:50.722930,My lawn needs fertilizing,waiting,arborist,83.74
+49,12,2027-12-09 19:20:06.119430,There's a problem with my light switches,waiting,electrical,89.86
+50,14,2028-01-15 23:35:21.496247,There's a crack in my wall,waiting,structural,73.92
+51,16,2028-02-22 03:50:36.872874,My kitchen faucet is leaking,waiting,waterworks,86.37
+52,18,2028-03-29 08:05:52.227485,There's a rat infestation in my attic,waiting,pesticide,94.58
+53,20,2028-05-05 12:20:07.598274,My trees need trimming,waiting,arborist,79.61
+54,11,2028-06-11 16:35:22.927394,My toilet is running constantly,waiting,waterworks,82.49
+55,13,2028-07-17 20:50:38.328773,My basement floods during heavy rain,waiting,waterworks,76.38
+56,15,2028-08-23 01:05:53.722930,There's a short circuit in my kitchen,waiting,electrical,91.75
+57,17,2028-09-29 05:20:09.119430,There's a crack in my driveway,waiting,structural,84.92
+58,19,2028-11-04 09:35:24.496247,My air conditioner isn't cooling properly,waiting,structural,70.43
+59,10,2028-12-10 13:50:39.872874,My shower is leaking,waiting,waterworks,95.17
+60,12,2029-01-16 18:05:55.227485,There's a bee hive under my porch,waiting,pesticide,82.85
+61,14,2029-02-22 22:20:10.598274,My water pump needs repair,waiting,waterworks,89.29
+62,16,2029-04-01 02:35:25.927394,My roof needs repair,waiting,structural,76.94
+63,18,2029-05-08 06:50:41.328773,There's a leak in my water pipe,waiting,waterworks,90.62
+64,20,2029-06-14 11:05:56.722930,My electrical wiring is faulty,waiting,electrical,78.53
+65,11,2029-07-20 15:20:12.119430,There are termites in my basement,waiting,pesticide,95.34
+66,13,2029-08-26 19:35:27.496247,My garden needs pruning,waiting,arborist,81.79
+67,15,2029-10-02 23:50:42.872874,My HVAC system needs servicing,waiting,structural,87.44
+68,17,2029-11-09 04:05:58.227485,My circuit breaker isn't working,waiting,electrical,94.29
+69,19,2029-12-16 08:20:13.598274,My windows need replacement,waiting,structural,72.75
+70,10,2030-01-22 12:35:28.927394,My mold issue in my attic,waiting,structural,82.63
+71,12,2030-02-28 16:50:44.328773,My pipes are clogged,waiting,waterworks,87.24
+72,14,2030-04-06 21:05:59.722930,My electrical outlets aren't working,waiting,electrical,90.73
+73,16,2030-05-13 01:20:15.119430,There's a crack in my wall,waiting,structural,71.86
+74,18,2030-06-19 05:35:30.496247,My kitchen faucet is leaking,waiting,waterworks,96.57
+75,20,2030-07-26 09:50:45.872874,There's a rat infestation in my attic,waiting,pesticide,79.24
+76,11,2030-09-01 14:05:51.227485,My sink is blocked,waiting,waterworks,83.17
+77,13,2030-10-08 18:20:06.598274,There's a crack in my foundation,waiting,structural,90.38
+78,15,2030-11-14 22:35:21.927394,My ceiling fan isn't working,waiting,electrical,92.38
+79,17,2030-12-22 02:50:37.328773,My lawn needs fertilizing,waiting,arborist,76.59
+80,19,2031-01-28 07:05:52.722930,There's a problem with my light switches,waiting,electrical,83.74
+81,10,2031-03-07 11:20:08.119430,There's a crack in my wall,waiting,structural,89.86
+82,12,2031-04-13 15:35:23.496247,My kitchen faucet is leaking,waiting,waterworks,73.92
+83,14,2031-05-20 19:50:38.872874,There's a rat infestation in my attic,waiting,pesticide,86.37
+84,16,2031-06-26 00:05:54.227485,My trees need trimming,waiting,arborist,94.58
+85,18,2031-08-02 04:20:09.598274,My toilet is running constantly,waiting,waterworks,79.61
+86,20,2031-09-08 08:35:24.927394,My basement floods during heavy rain,waiting,waterworks,82.49
+87,11,2031-10-15 12:50:40.328773,There's a short circuit in my kitchen,waiting,electrical,76.38
+88,13,2031-11-21 17:05:55.722930,There's a crack in my driveway,waiting,structural,91.75
+89,15,2031-12-28 21:20:11.119430,My air conditioner isn't cooling properly,waiting,structural,84.92
+90,17,2032-02-04 01:35:26.496247,There's a problem with my thermostat,waiting,structural,70.43
+91,19,2032-03-11 05:50:41.872874,My shower is leaking,waiting,waterworks,95.17
+92,10,2032-04-17 10:05:57.227485,There's a bee hive under my porch,waiting,pesticide,82.85
+93,12,2032-05-24 14:20:12.598274,My water pump needs repair,waiting,waterworks,89.29
+94,14,2032-06-30 18:35:27.927394,My roof needs repair,waiting,structural,76.94
+95,16,2032-08-07 22:50:43.328773,There's a leak in my water pipe,waiting,waterworks,90.62
+96,18,2032-09-14 03:05:58.722930,My electrical wiring is faulty,waiting,electrical,78.53
+97,20,2032-10-21 07:20:14.119430,There are termites in my basement,waiting,pesticide,95.34
+98,11,2032-11-27 11:35:29.496247,My garden needs pruning,waiting,arborist,81.79
+99,13,2033-01-03 15:50:44.872874,My HVAC system needs servicing,waiting,structural,87.44
+100,15,2033-02-09 20:05:50.227485,My circuit breaker isn't working,waiting,electrical,94.29
